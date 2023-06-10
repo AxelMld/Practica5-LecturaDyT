@@ -26,7 +26,7 @@ woki : https://wokwi.com
 
 ## **Conexión**
 
-![](https://github.com/AxelMld/Practica4/blob/main/Conexion.png?raw=true)
+![](https://github.com/AxelMld/Practica5-LecturaDyT/blob/main/conexiones.png?raw=true)
 
 
 ## **Librerías**
@@ -122,11 +122,11 @@ void loop()
 
 ## 1. Resultado lectura de distancia  
 
-![](https://github.com/AxelMld/Practica4/blob/main/resultado%201.png?raw=true)
+![](https://github.com/AxelMld/Practica5-LecturaDyT/blob/main/R%20Distancia.png?raw=true)
 
 ## 2. Resultado lectura de temperatura y humedad. 
 
-
+1[] (https://github.com/AxelMld/Practica5-LecturaDyT/blob/main/R%20Temperatura.png?raw=true)
 
 
 # Creditos 
