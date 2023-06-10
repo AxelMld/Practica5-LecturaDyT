@@ -126,7 +126,7 @@ void loop()
 
 ## 2. Resultado lectura de temperatura y humedad. 
 
-1[] (https://github.com/AxelMld/Practica5-LecturaDyT/blob/main/R%20Temperatura.png?raw=true)
+![] (https://github.com/AxelMld/Practica5-LecturaDyT/blob/main/R%20Temperatura.png?raw=true)
 
 
 # Creditos 
